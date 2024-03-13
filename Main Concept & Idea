@@ -1,17 +1,17 @@
 1. Greets the user (Name of the bot and company should be included)
 2. Asks for the user for what kind of service 
-3. Provides choices such as Clothing or Cosmetics to the user (one more option can be included)
+3. Provides choices such as Clothing or Tracking order details
 4. They branch out according to the choice that was chosen by the user
-5. One of the flow should have the possibility that the user has a option to input the data by typing manually
+5. One of the flow should have the possibility that the user has a option to input the data by typing manually (Tracking order details)
 6. From the listed topic , one of it should atleast have a Microsoft system app integrated towards it
 7. An option to reach out to human assistance should be provided
 8. End the conversation in a friendly way (Remind the name of the bot, what services are provided and also remind the company's name)
 9. Should have a required documentation on what could be improved and what are the changes that can be made for further compliances
 
 Recommendations:
-> Add a feature to allow user wheter to sort the items by price or brand
+> Add a feature to allow user whether to sort the items by price or brand
 > Add images to each type of product when displayed
-> The additional topic can be (What is your style quiz)
+> The additional topic can be (What size are you according to the store sizes)
 
 Fixes should include:
 > Basic validation data: If they prefer from one of the services (asked to the user first) [Name,E-mail]
