@@ -7,4 +7,5 @@ This repository would only consist of the documents that would binded for the ch
 
 1. Main Concept & Idea
 2. Topic 1 - Clothing
-3. Topic 2 - Pick up selected item
+3. Topic 2 - Pick up purchased item
+4. Topic 3 - Know your size
