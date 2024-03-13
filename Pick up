@@ -5,5 +5,5 @@ Luxevo: What time of the day, would you like to pick up the item?
 Respondent: choose the timeslot (10:00-12:30, 12:30-15:00, 15:00-20:00)
 Respondent: chooses the time and it frames into a sentence of when to pick up [X]
 
-M: A trigger is set and once the [X] message is written by the user, and prompts a text
-M: Reads back to , very first of the main loop, where it asks (How can we assist you?)
+(M) A trigger is set and once the [X] message is written by the user, and prompts a text
+(M) Reads back to , very first of the main loop, where it asks (How can we assist you?)
