@@ -1,0 +1,9 @@
+Respondent: Trigger message
+Luxevo: What type of clothes are you looking for?
+Respondent: Types of wear (1.Upper, 2.Lower) [C]
+- 1. Upper (Shirt,T-Shirt,Jacket,Vest) [C]
+- 2. Lower (Gown,Skirt,Pants,Jeans) [C]
+Respondent gets to choose the kind of cloth from the bracket
+Luxevo: Lists 4 types of items from each (everything with an image)
+(M) Once chosen it should typed from the respondent side 
+(M) A trigger should be handled once the word is sentence is typed, which should confirm on what is being selected and reach to another topic branch
