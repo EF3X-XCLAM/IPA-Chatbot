@@ -1,0 +1,8 @@
+Trigger message for knowing the size
+Luxevo: For which cloth are you looking the size for?
+Respondent: (Top,Pants,Shoes)
+Luxevo: What is ur size in (cms of stomach,chest,neck,shoulder)
+Respondent: answers with size for each of them
+Luxevo: recommends the size for shirt
+
+(M) The concept can be added to the pants and shoes as well
