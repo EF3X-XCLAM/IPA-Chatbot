@@ -1,7 +1,7 @@
 Trigger responses to the delivery pick up
-Chatbot: Which day do you want to pick up the item? 
+Luxevo: Which day do you want to pick up the item? 
 Respondent : choose dates (5 days from now) [C]
-Chatbot : What time of the day, would you like to pick up the item?
+Luxevo: What time of the day, would you like to pick up the item?
 Respondent: choose the timeslot (10:00-12:30, 12:30-15:00, 15:00-20:00)
 Respondent: chooses the time and it frames into a sentence of when to pick up [X]
 
